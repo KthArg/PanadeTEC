@@ -1,6 +1,7 @@
 para poder hacer la configuración inicial del proyecto:
 
 npm install
+
 npm run dev
 
 con esos dos comandos ya estaría listo para ver la página.
@@ -9,4 +10,4 @@ como de momento no hay base de datos, lo que podemos ir haciendo es creando form
 
 Sorry por no hacerle mucho pero en donde estoy dudo que aunque sea este readme se suba completamente.
 
-pregúntele a Claude el mae es muy bueno para estar varas también
+pregúntele a Claude el mae es muy bueno para estas varas también
