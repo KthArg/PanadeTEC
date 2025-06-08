@@ -1,12 +1,12 @@
-# React + Vite
+para poder hacer la configuración inicial del proyecto:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+npm install
+npm run dev
 
-Currently, two official plugins are available:
+con esos dos comandos ya estaría listo para ver la página.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+como de momento no hay base de datos, lo que podemos ir haciendo es creando formularios para rellenar. Desde lo más primitivo hasta lo que se encuentra más compuesto. Dentro del proyecto le dejé un ejemplo (que es una mierda) pero un ejemplo regardless. En resumidas cuentas entra a App.js y modifique la dirección a la que usted queira que responda la página que usted está haciendo. Ahí después procuramos que funcione conforme a la tecnología de bases de datos, de momento hacer lo que no necesita de eso para exisitir.
 
-## Expanding the ESLint configuration
+Sorry por no hacerle mucho pero en donde estoy dudo que aunque sea este readme se suba completamente.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+pregúntele a Claude el mae es muy bueno para estar varas también
